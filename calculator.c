@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 #include<math.h>
 int main(){
  /*To perform mathematical operations on two operands*/
